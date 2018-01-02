@@ -1,1 +1,1 @@
-# MachinesThatRunThemselves-
+# MachinesThatRunThemselves-I'm bringing machine learning to a dinosaur manufacturing process, housed in a museum of incremental-management!  Any/all help from my fellow programmers is and will be forever appreciated!
